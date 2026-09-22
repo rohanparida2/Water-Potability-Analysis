@@ -55,7 +55,7 @@ Given a set of physicochemical water quality measurements, identify:
 ### Dataset Source
 
 The dataset is publicly available on Kaggle:  
-**https://www.kaggle.com/datasets/adityakadiwal/water-potability**
+**https://www.kaggle.com/datasets/devanshibavaria/water-potability-dataset-with-10-parameteres**
 
 ---
 
